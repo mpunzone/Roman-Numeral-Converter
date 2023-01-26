@@ -3,7 +3,7 @@
 #include <cmath>
 #include <algorithm>
 #include <string>
-//Created by Matthew Punzone | 1/10/2023 | Version 1
+//Created by Matthew Punzone | 1/10/2023 | Version 1.0
 
 //welcome message and menu functions
 void welcome_message(){
