@@ -1,6 +1,5 @@
 # Roman Numeral Converter
 This program is intended to convert roman numerals into the correct number.
-**The currency rates are outdated and not accurate**
 
 *Created by: Matthew Punzone | 1/26/2023 | Version 1.0*
 
